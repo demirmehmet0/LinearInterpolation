@@ -2,3 +2,5 @@ target/.*
 target
 target/t
 *.txt
+target/deneme.txt
+
